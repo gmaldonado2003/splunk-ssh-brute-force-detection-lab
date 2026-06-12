@@ -129,3 +129,22 @@ During this lab, I successfully:
 
 This project helped me gain hands-on experience with SIEM operations, log analysis, dashboard creation, alert configuration, and basic security investigations using Splunk Enterprise.
 
+---
+
+## Screenshots
+
+### Raw SSH Log Investigation
+
+![Raw SSH Log Investigation](./Raw%20SSH%20Log%20Investigation.png)
+
+### Failed Login Attempt Analysis
+
+![Failed Login Attempt Analysis](./Statistics%20Query.png)
+
+### Source IP Extraction Query
+
+![Source IP Extraction Query](./IP%20Extraction%20Query.png)
+
+### Dashboard Visualization
+
+![Dashboard Visualization](./Dashboard.png)
